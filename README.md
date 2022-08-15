@@ -7,7 +7,7 @@ Muslim Quraan app,<br>
 - user can put mark on verse.<br>
 - user can complete reading from marks list.<br>
 - user can delete mark.<br><br>
-tools: <br>
+Tools: <br>
   - local database Sqflite.<br>
   - "Noto Nastaliq Urdu" font for quraan.<br>
   - "URW_DIN_Arabic" primary font. <br>
