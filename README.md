@@ -1,7 +1,6 @@
-# Muslim
+# Muslim Quraan app
 
-#overview
-Muslim Quraan app,<br>
+#overview<br>
 - display all Quraan surah.<br>
 - user can change font size.<br>
 - user can put mark on verse.<br>
