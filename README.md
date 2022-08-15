@@ -3,7 +3,7 @@
 #overview
 Muslim Quraan app,<br>
 - display all Quraan surah.<br>
-- use can change font size.<br>
+- user can change font size.<br>
 - user can put mark on verse.<br>
 - user can complete reading from marks list.<br>
 - user can delete mark.<br><br>
