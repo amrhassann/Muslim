@@ -1,4 +1,4 @@
-# muslim
+# Muslim
 
 #overview
 Muslim Quraan app,<br>
